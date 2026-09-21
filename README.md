@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpeg" width="100%" alt="Preethi Awaradi GitHub banner">
+</p>
 # Hi, I'm Preethi Awaradi 👋
 
 🎓 Computer Science Engineering Student
